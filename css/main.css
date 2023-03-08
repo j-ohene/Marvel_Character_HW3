@@ -98,7 +98,7 @@ article p {
     width: 150px;
     height: 150px;
     
-    background-image: url("../images/marvelSprites.jpg");
+    background-image: url("../images/greys-cast.jpg");
 }
 
 #carol { background-position: -150px 0; }
@@ -138,7 +138,7 @@ footer {
     background-image: url('../images/percy.jpg');
     background-repeat: no-repeat;
 
-    background-size: 55vh; /* 55% of the viewport height */
+    background-size: 45vh; /* 55% of the viewport height */
     background-position: 40px bottom;
 
     z-index: 5000;
