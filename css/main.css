@@ -32,11 +32,11 @@ header {
     text-align: center;
     background-color: #675050;
 
-    background-image: url('../images/pj-header.png');
+    background-image: url('../images/Seattle-WA.png');
     background-repeat: no-repeat;
     background-size: cover;
 
-    background-blend-mode: multiply;
+    background-blend-mode:darken;
 }
 
 .characters { list-style-type: none; }
