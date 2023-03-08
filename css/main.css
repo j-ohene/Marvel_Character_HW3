@@ -97,9 +97,9 @@ article p {
 .sprite {
     width: 150px;
     height: 150px;
-    
+
     background-image: url("../images/greys-cast2.jpg");
-    
+
 }
 
 #yang { background-position: -150px 0; }
@@ -149,7 +149,7 @@ footer {
 }
 
 #lightbox2 { background-image: url("../images/Cristina_Yang.jpg"); 
-   
+
 }
 #lightbox3 { background-image: url('../images/Isobel_Stevens.jpg');
 
