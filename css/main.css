@@ -13,13 +13,13 @@ html, body { height: 100% }
 
 body { 
   font-family: sans-serif;
-  background-color: black;
+  background-color: grey;
   color: white;
 }
 
 /* main header rules */
 header {
-    background-color: #324E38;
+    background-color:rgb(135, 179, 250) ;
     position: sticky;
     top: 0;
     text-align: center;
@@ -98,7 +98,8 @@ article p {
     width: 150px;
     height: 150px;
     
-    background-image: url("../images/greys-cast.jpg");
+    background-image: url("../images/greys-cast2.jpg");
+    
 }
 
 #carol { background-position: -150px 0; }
