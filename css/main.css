@@ -135,10 +135,9 @@ footer {
     left: 0;
 
     background-color: rgba(0, 0, 0, 0.85);
-    background-image: url('../images/percy.jpg');
     background-repeat: no-repeat;
 
-    background-size: 45vh; /* 55% of the viewport height */
+    background-size: 55vh; /* 55% of the viewport height */
     background-position: 40px bottom;
 
     z-index: 5000;
@@ -146,7 +145,18 @@ footer {
     display: none;
 }
 
-#lightbox2 { background-image: url('../images/Thor_LB_Bg.png'); }
+#lightbox { background-image: url("../images/meredith.jpg")
+}
+
+#lightbox2 { background-image: url("../images/Cristina_Yang.jpg"); 
+   
+}
+#lightbox3 { background-image: url('../images/Isobel_Stevens.jpg');
+
+}
+#lightbox4 { background-image: url('../images/Dr._Alex_Karev.jpg');
+
+}
 
 .lightbox_close {
     position: relative;
