@@ -13,7 +13,7 @@ html, body { height: 100% }
 
 body { 
   font-family: sans-serif;
-  background-color: grey;
+  background-color: rgb(36, 30, 74);
   color: white;
 }
 
@@ -30,7 +30,7 @@ header {
 /* main rules here */
 #character_nav {
     text-align: center;
-    background-color: #675050;
+    background-color: #686991;
 
     background-image: url('../images/Seattle-WA.png');
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@ header {
     position: relative;
     display: inline-block;
     height: 220px;
-    margin: 10px 8px;
+    margin: 15px 8px;
 
     background-color: black;
 
